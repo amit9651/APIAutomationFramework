@@ -1,9 +1,8 @@
 package com.api.tests;
 
 import com.api.base.AuthService;
-import com.api.models.LoginResponse;
+import com.api.models.response.LoginResponse;
 import com.api.models.request.LoginRequest;
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
