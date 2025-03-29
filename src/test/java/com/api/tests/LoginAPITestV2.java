@@ -12,7 +12,7 @@ public class LoginAPITestV2 {
     @Test(description = "Verify if login api is working")
     public void loginTest(){
         AuthService authService = new AuthService();
-        LoginRequest loginRequest = new LoginRequest("string","string");
+        LoginRequest loginRequest = new LoginRequest("amit","amit123");
         Response response = authService.login(loginRequest);
         System.out.println(response.asPrettyString());
         LoginResponse loginResponse = response.as(LoginResponse.class);
