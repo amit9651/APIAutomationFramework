@@ -23,6 +23,7 @@ public class SignUpUserTest {
         SignUpRequest signUpRequest = new SignUpRequest(username,password,email,firstName,lastName,mobile);
         Response response = authService.signUp(signUpRequest);
         System.out.println(response.asPrettyString());
+        Assert.assertEquals(response.getStatusCode(),200);
         Assert.assertEquals(response.asPrettyString(),"User registered successfully!");
 
     }

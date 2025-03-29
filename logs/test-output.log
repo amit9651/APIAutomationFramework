@@ -1,0 +1,440 @@
+2025-03-29 16:30:19 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 16:30:19 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 16:30:19 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 16:30:20 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 16:30:20 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 16:30:20 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 16:30:38 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 16:30:38 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 16:30:38 INFO  TestListeners:15 - Test Case execution started forgotPassword
+2025-03-29 16:30:39 INFO  TestListeners:20 - Test Case Passed forgotPassword
+2025-03-29 16:30:39 INFO  TestListeners:21 - Description Verify user can perform forgot password
+2025-03-29 16:30:39 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:23:46 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:23:46 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:23:46 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:23:47 INFO  LoggingFilter:23 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:23:47 INFO  LoggingFilter:24 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:23:47 INFO  LoggingFilter:25 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:23:47 INFO  LoggingFilter:26 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:23:47 INFO  LoggingFilter:31 - Time taken in sec: 531
+2025-03-29 17:23:47 INFO  LoggingFilter:32 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 11:53:47 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:23:47 INFO  LoggingFilter:33 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5MjI3LCJleHAiOjE3NDMyNTI4Mjd9.xr4BB5M9G13ySA0EtBhneZT1h5mCeXTmOVWGnfJewXk",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:23:47 INFO  LoggingFilter:34 - Status Code: 200
+2025-03-29 17:23:47 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:23:47 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:23:47 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:25:44 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:25:44 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:25:44 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:25:45 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:25:45 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:25:45 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:25:45 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:25:45 INFO  LoggingFilter:33 - Time taken in mill sec: 473
+2025-03-29 17:25:45 INFO  LoggingFilter:34 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 11:55:45 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:25:45 INFO  LoggingFilter:35 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5MzQ1LCJleHAiOjE3NDMyNTI5NDV9.Z-DCrJlETyIydI-FC6f1tAREGUOJvPqHJBHMjQCLISM",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:25:45 INFO  LoggingFilter:36 - Status Code: 200
+2025-03-29 17:25:45 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:25:45 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:25:45 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:27:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:27:26 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:27:26 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:27:27 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:27:27 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:27:27 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:27:27 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:27:27 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:27:27 INFO  LoggingFilter:34 - Time taken in mill sec: 423
+2025-03-29 17:27:27 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 11:57:27 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:27:27 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5NDQ3LCJleHAiOjE3NDMyNTMwNDd9.AWZay-G8CSp9eBDZpXNurQn2FhvaW-sJEy_j7I4tC2g",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:27:27 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:27:27 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:27:27 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:27:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:32:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:32:58 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:32:58 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:32:58 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:32:58 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:32:58 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:32:58 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:32:58 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:32:59 INFO  LoggingFilter:34 - Time taken in mill sec: 807
+2025-03-29 17:32:59 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:02:59 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:32:59 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5Nzc5LCJleHAiOjE3NDMyNTMzNzl9.59IZNmk9G7Ti5PGa40ei3tfhn2VEs7rmPXm4rTmokJk",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:32:59 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:32:59 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:32:59 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:32:59 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:35:06 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:35:06 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:35:06 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:35:06 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:35:06 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:35:06 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:35:06 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:35:06 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:35:07 INFO  LoggingFilter:34 - Time taken in mill sec: 383
+2025-03-29 17:35:07 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:05:07 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:35:07 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5OTA3LCJleHAiOjE3NDMyNTM1MDd9.28eYwCkn4S0NNv58RmZOqYlc8z87slZtQqANzOF2DqQ",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:35:07 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:35:07 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:35:07 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:35:07 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:36:07 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-03-29 17:36:07 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:36:07 INFO  TestListeners:15 - Test Case execution started updateProfileAll
+2025-03-29 17:36:08 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:36:08 INFO  LoggingFilter:27 - Request Payload: {"password":"amit123","username":"amit"}
+2025-03-29 17:36:08 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:36:08 INFO  LoggingFilter:34 - Time taken in mill sec: 378
+2025-03-29 17:36:08 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:06:08 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:36:08 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5OTY4LCJleHAiOjE3NDMyNTM1Njh9.vEvSBZD9XSfLidITNslac0xRGvlyaLZV2N5i6kw7xbM",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:36:08 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:36:08 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:26 - Request Header: Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5OTY4LCJleHAiOjE3NDMyNTM1Njh9.vEvSBZD9XSfLidITNslac0xRGvlyaLZV2N5i6kw7xbM
+Accept=*/*
+2025-03-29 17:36:08 INFO  LoggingFilter:27 - Request Payload: null
+2025-03-29 17:36:08 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:29 - Method-Type: GET
+2025-03-29 17:36:08 INFO  LoggingFilter:34 - Time taken in mill sec: 182
+2025-03-29 17:36:08 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:06:08 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:36:08 INFO  LoggingFilter:36 - Response Payload: {
+    "id": 564,
+    "username": "amit",
+    "email": "weii@yopmail.com",
+    "firstName": "Dino",
+    "lastName": "Thiel",
+    "mobileNumber": "9174483658"
+}
+2025-03-29 17:36:08 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:36:08 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:26 - Request Header: Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5OTY4LCJleHAiOjE3NDMyNTM1Njh9.vEvSBZD9XSfLidITNslac0xRGvlyaLZV2N5i6kw7xbM
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjQ5OTY4LCJleHAiOjE3NDMyNTM1Njh9.vEvSBZD9XSfLidITNslac0xRGvlyaLZV2N5i6kw7xbM
+Content-Type=application/json
+2025-03-29 17:36:08 INFO  LoggingFilter:27 - Request Payload: {"firstName":"Eustolia","lastName":"Runolfsdottir","email":"bcfq@yopmail.com","mobileNumber":"0147055831"}
+2025-03-29 17:36:08 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:36:08 INFO  LoggingFilter:29 - Method-Type: PUT
+2025-03-29 17:36:09 INFO  LoggingFilter:34 - Time taken in mill sec: 191
+2025-03-29 17:36:09 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:06:09 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:36:09 INFO  LoggingFilter:36 - Response Payload: {
+    "id": 564,
+    "username": "amit",
+    "email": "bcfq@yopmail.com",
+    "firstName": "Eustolia",
+    "lastName": "Runolfsdottir",
+    "mobileNumber": "0147055831"
+}
+2025-03-29 17:36:09 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:36:09 ERROR TestListeners:26 - Test Case Failed updateProfileAll
+2025-03-29 17:36:09 INFO  TestListeners:27 - Description Verify User is able to update profile
+2025-03-29 17:36:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:46:36 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:46:36 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:46:37 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:46:37 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:46:37 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:46:37 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:46:37 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:46:37 INFO  LoggingFilter:34 - Time taken in mill sec: 466
+2025-03-29 17:46:37 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:16:37 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:46:37 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjUwNTk3LCJleHAiOjE3NDMyNTQxOTd9.QCgsOEoYJNqdW65xQMqjmiZg6W3IBTOvxILQe-ZnokA",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "bcfq@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:46:37 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:46:37 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:46:37 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:46:37 INFO  TestListeners:41 - Test Suite execution finished....
+2025-03-29 17:47:00 INFO  TestListeners:36 - Test Suite execution started....
+2025-03-29 17:47:00 INFO  TestListeners:15 - Test Case execution started loginTest
+2025-03-29 17:47:00 INFO  LoggingFilter:25 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:47:00 INFO  LoggingFilter:26 - Request Header: Accept=*/*
+Content-Type=application/json
+2025-03-29 17:47:00 INFO  LoggingFilter:27 - Request Payload: {"username":"amit","password":"amit123"}
+2025-03-29 17:47:00 INFO  LoggingFilter:28 - BASE URI: http://64.227.160.186:8080
+2025-03-29 17:47:00 INFO  LoggingFilter:29 - Method-Type: POST
+2025-03-29 17:47:01 INFO  LoggingFilter:34 - Time taken in mill sec: 892
+2025-03-29 17:47:01 INFO  LoggingFilter:35 - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 29 Mar 2025 12:17:01 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+2025-03-29 17:47:01 INFO  LoggingFilter:36 - Response Payload: {
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbWl0IiwiaWF0IjoxNzQzMjUwNjIxLCJleHAiOjE3NDMyNTQyMjF9.HIfNBaI-fDY0EEcn2k9HqokNUJbHA3508nschP0lSRI",
+    "type": "Bearer",
+    "id": 564,
+    "username": "amit",
+    "email": "bcfq@yopmail.com",
+    "roles": [
+        "ROLE_USER"
+    ]
+}
+2025-03-29 17:47:01 INFO  LoggingFilter:37 - Status Code: 200
+2025-03-29 17:47:01 INFO  TestListeners:20 - Test Case Passed loginTest
+2025-03-29 17:47:01 INFO  TestListeners:21 - Description Verify if login api is working
+2025-03-29 17:47:01 INFO  TestListeners:41 - Test Suite execution finished....
