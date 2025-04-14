@@ -1,0 +1,661 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "street": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "zip": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "street",
+            "city",
+            "zip",
+            "country"
+          ]
+        },
+        "enrollment": {
+          "type": "object",
+          "properties": {
+            "semester": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "semester",
+            "status"
+          ]
+        },
+        "department": {
+          "type": "object",
+          "properties": {
+            "dept_name": {
+              "type": "string"
+            },
+            "head": {
+              "type": "string"
+            },
+            "courses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "dept_name",
+            "head",
+            "courses"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location",
+        "phone",
+        "address",
+        "enrollment",
+        "department"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "street": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "zip": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "street",
+            "city",
+            "zip",
+            "country"
+          ]
+        },
+        "enrollment": {
+          "type": "object",
+          "properties": {
+            "semester": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "semester",
+            "status"
+          ]
+        },
+        "department": {
+          "type": "object",
+          "properties": {
+            "dept_name": {
+              "type": "string"
+            },
+            "head": {
+              "type": "string"
+            },
+            "courses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "dept_name",
+            "head",
+            "courses"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location",
+        "phone",
+        "address",
+        "enrollment",
+        "department"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "street": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "zip": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "street",
+            "city",
+            "zip",
+            "country"
+          ]
+        },
+        "enrollment": {
+          "type": "object",
+          "properties": {
+            "semester": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "semester",
+            "status"
+          ]
+        },
+        "department": {
+          "type": "object",
+          "properties": {
+            "dept_name": {
+              "type": "string"
+            },
+            "head": {
+              "type": "string"
+            },
+            "courses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "dept_name",
+            "head",
+            "courses"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location",
+        "phone",
+        "address",
+        "enrollment",
+        "department"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "street": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "zip": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "street",
+            "city",
+            "zip",
+            "country"
+          ]
+        },
+        "enrollment": {
+          "type": "object",
+          "properties": {
+            "semester": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "semester",
+            "status"
+          ]
+        },
+        "department": {
+          "type": "object",
+          "properties": {
+            "dept_name": {
+              "type": "string"
+            },
+            "head": {
+              "type": "string"
+            },
+            "courses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "dept_name",
+            "head",
+            "courses"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location",
+        "phone",
+        "address",
+        "enrollment",
+        "department"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "address": {
+          "type": "object",
+          "properties": {
+            "street": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "zip": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "street",
+            "city",
+            "zip",
+            "country"
+          ]
+        },
+        "enrollment": {
+          "type": "object",
+          "properties": {
+            "semester": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "semester",
+            "status"
+          ]
+        },
+        "department": {
+          "type": "object",
+          "properties": {
+            "dept_name": {
+              "type": "string"
+            },
+            "head": {
+              "type": "string"
+            },
+            "courses": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "course_id": {
+                      "type": "string"
+                    },
+                    "course_name": {
+                      "type": "string"
+                    },
+                    "instructor": {
+                      "type": "string"
+                    },
+                    "schedule": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "course_id",
+                    "course_name",
+                    "instructor",
+                    "schedule"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "dept_name",
+            "head",
+            "courses"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "location",
+        "phone",
+        "address",
+        "enrollment",
+        "department"
+      ]
+    }
+  ]
+}

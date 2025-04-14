@@ -1,0 +1,94 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "location": "New York",
+      "phone": "+1-555-123-4567",
+      "courses": [
+        {
+          "course_id": "CS101",
+          "course_name": "Introduction to Computer Science",
+          "instructor": "Dr. Smith"
+        },
+        {
+          "course_id": "MATH101",
+          "course_name": "Calculus I",
+          "instructor": "Prof. Johnson"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alice Green",
+      "location": "Los Angeles",
+      "phone": "+1-555-987-6543",
+      "courses": [
+        {
+          "course_id": "BIO101",
+          "course_name": "Introduction to Biology",
+          "instructor": "Dr. Taylor"
+        },
+        {
+          "course_id": "CHEM101",
+          "course_name": "Chemistry Basics",
+          "instructor": "Prof. Lee"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "David Harris",
+      "location": "Chicago",
+      "phone": "+1-555-555-5555",
+      "courses": [
+        {
+          "course_id": "PHYS101",
+          "course_name": "Physics I",
+          "instructor": "Prof. Clark"
+        },
+        {
+          "course_id": "ENG202",
+          "course_name": "English Literature",
+          "instructor": "Mrs. Williams"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emma White",
+      "location": "Miami",
+      "phone": "+1-555-444-4444",
+      "courses": [
+        {
+          "course_id": "ART101",
+          "course_name": "Art History",
+          "instructor": "Prof. Davis"
+        },
+        {
+          "course_id": "MATH102",
+          "course_name": "Linear Algebra",
+          "instructor": "Dr. Martinez"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "location": "San Francisco",
+      "phone": "+1-555-333-3333",
+      "courses": [
+        {
+          "course_id": "CS102",
+          "course_name": "Data Structures and Algorithms",
+          "instructor": "Dr. Wilson"
+        },
+        {
+          "course_id": "HIST101",
+          "course_name": "World History",
+          "instructor": "Prof. Evans"
+        }
+      ]
+    }
+  ]
+}

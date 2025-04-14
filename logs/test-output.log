@@ -438,3 +438,1235 @@ Connection=keep-alive
 2025-03-29 17:47:01 INFO  TestListeners:20 - Test Case Passed loginTest
 2025-03-29 17:47:01 INFO  TestListeners:21 - Description Verify if login api is working
 2025-03-29 17:47:01 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:30:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:30:12 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:30:12 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:30:13 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:30:13 INFO  TestListeners:21 - Description 
+2025-04-01 15:30:13 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:44:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:44:51 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:44:51 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:44:52 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:44:52 INFO  TestListeners:21 - Description 
+2025-04-01 15:44:52 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:45:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:45:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:45:27 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:45:29 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:45:29 INFO  TestListeners:21 - Description 
+2025-04-01 15:45:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:46:33 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:46:33 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:46:33 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:46:34 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-01 15:46:34 INFO  TestListeners:27 - Description 
+2025-04-01 15:46:34 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:47:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:47:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:47:08 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:47:09 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:47:09 INFO  TestListeners:21 - Description 
+2025-04-01 15:47:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:47:21 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:47:21 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:47:21 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:47:22 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:47:22 INFO  TestListeners:21 - Description 
+2025-04-01 15:47:22 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:58:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:58:26 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:58:26 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:58:27 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:58:27 INFO  TestListeners:21 - Description 
+2025-04-01 15:58:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 15:58:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 15:58:32 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 15:58:32 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 15:58:33 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 15:58:33 INFO  TestListeners:21 - Description 
+2025-04-01 15:58:33 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 21:33:30 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 21:33:30 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 21:33:30 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 21:33:31 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-01 21:33:31 INFO  TestListeners:27 - Description 
+2025-04-01 21:33:31 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 21:34:50 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 21:34:50 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 21:34:50 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 21:34:51 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-01 21:34:51 INFO  TestListeners:27 - Description 
+2025-04-01 21:34:51 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-01 21:36:13 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-01 21:36:13 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-01 21:36:13 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-01 21:36:14 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-01 21:36:14 INFO  TestListeners:21 - Description 
+2025-04-01 21:36:14 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:08:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:08:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:08:08 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:08:10 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-02 11:08:10 INFO  TestListeners:27 - Description 
+2025-04-02 11:08:10 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:08:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:08:43 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:08:43 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:08:44 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:08:44 INFO  TestListeners:21 - Description 
+2025-04-02 11:08:44 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:09:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:09:26 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:09:26 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:09:28 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:09:28 INFO  TestListeners:21 - Description 
+2025-04-02 11:09:28 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:10:16 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:10:16 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:10:16 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:10:17 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-02 11:10:17 INFO  TestListeners:27 - Description 
+2025-04-02 11:10:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:10:36 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:10:36 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:10:36 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:10:37 ERROR TestListeners:26 - Test Case Failed getApi
+2025-04-02 11:10:37 INFO  TestListeners:27 - Description 
+2025-04-02 11:10:37 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:12:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:12:31 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:12:31 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:12:32 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:12:32 INFO  TestListeners:21 - Description 
+2025-04-02 11:12:32 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:12:39 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:12:39 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:12:39 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:12:40 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:12:40 INFO  TestListeners:21 - Description 
+2025-04-02 11:12:40 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:14:17 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:14:17 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:14:17 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:14:18 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:14:18 INFO  TestListeners:21 - Description 
+2025-04-02 11:14:18 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-02 11:15:07 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-02 11:15:07 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-02 11:15:07 INFO  TestListeners:15 - Test Case execution started getApi
+2025-04-02 11:15:08 INFO  TestListeners:20 - Test Case Passed getApi
+2025-04-02 11:15:08 INFO  TestListeners:21 - Description 
+2025-04-02 11:15:08 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:10:02 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:10:02 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:10:02 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 22:10:03 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 22:10:03 INFO  TestListeners:21 - Description 
+2025-04-04 22:10:03 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:14:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:14:42 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:14:42 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 22:14:43 ERROR TestListeners:26 - Test Case Failed getRequest
+2025-04-04 22:14:43 INFO  TestListeners:27 - Description 
+2025-04-04 22:14:43 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:15:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:15:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:15:08 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 22:15:09 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 22:15:09 INFO  TestListeners:21 - Description 
+2025-04-04 22:15:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:16:22 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:16:22 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:16:22 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 22:16:23 ERROR TestListeners:26 - Test Case Failed getRequest
+2025-04-04 22:16:23 INFO  TestListeners:27 - Description 
+2025-04-04 22:16:23 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:26:15 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:26:15 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:26:15 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:26:17 ERROR TestListeners:26 - Test Case Failed createUser
+2025-04-04 22:26:17 INFO  TestListeners:27 - Description 
+2025-04-04 22:26:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:26:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:26:32 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:26:32 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:26:33 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 22:26:33 INFO  TestListeners:21 - Description 
+2025-04-04 22:26:33 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:48:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:48:09 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:48:09 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:48:11 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 22:48:11 INFO  TestListeners:21 - Description 
+2025-04-04 22:48:11 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:48:25 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:48:25 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:48:25 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:48:27 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 22:48:27 INFO  TestListeners:21 - Description 
+2025-04-04 22:48:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:48:38 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:48:38 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:48:38 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:48:40 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 22:48:40 INFO  TestListeners:21 - Description 
+2025-04-04 22:48:40 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 22:53:15 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 22:53:15 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 22:53:15 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 22:53:17 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 22:53:17 INFO  TestListeners:21 - Description 
+2025-04-04 22:53:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:04:18 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:04:18 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:04:18 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:04:20 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:04:20 INFO  TestListeners:21 - Description 
+2025-04-04 23:04:20 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:05:13 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:05:13 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:05:13 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:05:16 ERROR TestListeners:26 - Test Case Failed getRequestList
+2025-04-04 23:05:16 INFO  TestListeners:27 - Description 
+2025-04-04 23:05:16 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:05:53 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:05:53 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:05:53 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:05:54 ERROR TestListeners:26 - Test Case Failed getRequestList
+2025-04-04 23:05:54 INFO  TestListeners:27 - Description 
+2025-04-04 23:05:54 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:06:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:06:43 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:06:43 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:06:44 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:06:44 INFO  TestListeners:21 - Description 
+2025-04-04 23:06:44 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:07:10 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:07:10 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:07:10 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:07:12 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:07:12 INFO  TestListeners:21 - Description 
+2025-04-04 23:07:12 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:11:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:11:26 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:11:26 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:11:29 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:11:29 INFO  TestListeners:21 - Description 
+2025-04-04 23:11:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:11:41 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:11:41 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:11:41 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:11:42 ERROR TestListeners:26 - Test Case Failed getRequestList
+2025-04-04 23:11:42 INFO  TestListeners:27 - Description 
+2025-04-04 23:11:42 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:11:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:11:51 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:11:51 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:11:53 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:11:53 INFO  TestListeners:21 - Description 
+2025-04-04 23:11:53 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:13:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:13:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:13:27 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:13:29 ERROR TestListeners:26 - Test Case Failed updateUser
+2025-04-04 23:13:29 INFO  TestListeners:27 - Description 
+2025-04-04 23:13:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:13:36 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:13:36 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:13:36 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:13:38 ERROR TestListeners:26 - Test Case Failed updateUser
+2025-04-04 23:13:38 INFO  TestListeners:27 - Description 
+2025-04-04 23:13:38 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:14:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:14:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:14:08 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:14:10 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:14:10 INFO  TestListeners:21 - Description 
+2025-04-04 23:14:10 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:26:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:26:31 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:26:31 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:26:33 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:26:33 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:33 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:26:34 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:26:34 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:34 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:26:34 ERROR TestListeners:26 - Test Case Failed getRequestList
+2025-04-04 23:26:34 INFO  TestListeners:27 - Description 
+2025-04-04 23:26:34 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:26:35 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:26:35 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:35 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:26:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:26:48 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:26:48 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:26:49 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:26:49 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:49 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:26:54 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:26:54 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:26:54 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:26:56 ERROR TestListeners:26 - Test Case Failed createUser
+2025-04-04 23:26:56 INFO  TestListeners:27 - Description 
+2025-04-04 23:26:56 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:26:57 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:26:57 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:57 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:26:57 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:26:57 INFO  TestListeners:21 - Description 
+2025-04-04 23:26:57 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:26:57 INFO  TestListeners:31 - Test Case Skipped updateUser
+2025-04-04 23:26:57 INFO  TestListeners:32 - Description 
+2025-04-04 23:26:57 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:27:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:27:09 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:27:09 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:27:11 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:27:11 INFO  TestListeners:21 - Description 
+2025-04-04 23:27:11 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:27:11 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:27:11 INFO  TestListeners:21 - Description 
+2025-04-04 23:27:11 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:27:11 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:27:11 INFO  TestListeners:21 - Description 
+2025-04-04 23:27:11 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:27:12 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:27:12 INFO  TestListeners:21 - Description 
+2025-04-04 23:27:12 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:29:18 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:29:18 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:29:18 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:29:19 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:29:19 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:19 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:29:20 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:29:20 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:20 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:29:21 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:29:21 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:21 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:29:22 INFO  TestListeners:20 - Test Case Passed deleteRequest
+2025-04-04 23:29:22 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:22 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:29:22 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:29:22 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:22 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:29:54 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:29:54 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:29:54 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:29:55 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:29:55 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:55 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:29:55 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:29:55 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:55 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:29:56 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:29:56 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:56 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:29:57 INFO  TestListeners:20 - Test Case Passed deleteRequest
+2025-04-04 23:29:57 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:57 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:29:58 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:29:58 INFO  TestListeners:21 - Description 
+2025-04-04 23:29:58 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:30:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:30:09 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:30:09 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:30:10 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:30:10 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:10 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:30:11 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:30:11 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:11 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:30:11 ERROR TestListeners:26 - Test Case Failed createUser
+2025-04-04 23:30:11 INFO  TestListeners:27 - Description 
+2025-04-04 23:30:11 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:30:11 INFO  TestListeners:31 - Test Case Skipped updateUser
+2025-04-04 23:30:11 INFO  TestListeners:32 - Description 
+2025-04-04 23:30:11 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:30:11 INFO  TestListeners:31 - Test Case Skipped deleteRequest
+2025-04-04 23:30:11 INFO  TestListeners:32 - Description 
+2025-04-04 23:30:11 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:30:22 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:30:22 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:30:22 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:30:23 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:30:23 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:23 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:30:23 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:30:23 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:23 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:30:23 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:30:23 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:23 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:30:24 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:30:24 INFO  TestListeners:21 - Description 
+2025-04-04 23:30:24 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:30:24 ERROR TestListeners:26 - Test Case Failed deleteRequest
+2025-04-04 23:30:24 INFO  TestListeners:27 - Description 
+2025-04-04 23:30:24 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:31:24 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:31:24 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:31:24 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:31:25 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:31:25 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:25 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:31:25 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:31:25 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:25 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:31:25 ERROR TestListeners:26 - Test Case Failed createUser
+2025-04-04 23:31:25 INFO  TestListeners:27 - Description 
+2025-04-04 23:31:25 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:31:25 INFO  TestListeners:31 - Test Case Skipped updateUser
+2025-04-04 23:31:25 INFO  TestListeners:32 - Description 
+2025-04-04 23:31:25 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:31:25 INFO  TestListeners:31 - Test Case Skipped deleteRequest
+2025-04-04 23:31:25 INFO  TestListeners:32 - Description 
+2025-04-04 23:31:25 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:31:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:31:28 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:31:28 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:31:29 ERROR TestListeners:26 - Test Case Failed getRequest
+2025-04-04 23:31:29 INFO  TestListeners:27 - Description 
+2025-04-04 23:31:29 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:31:29 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:31:29 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:29 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:31:30 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:31:30 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:30 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:31:31 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:31:31 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:31 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:31:32 INFO  TestListeners:20 - Test Case Passed deleteRequest
+2025-04-04 23:31:32 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:32 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-04 23:31:34 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-04 23:31:34 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-04 23:31:34 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-04 23:31:35 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-04 23:31:35 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:35 INFO  TestListeners:15 - Test Case execution started getRequestList
+2025-04-04 23:31:35 INFO  TestListeners:20 - Test Case Passed getRequestList
+2025-04-04 23:31:35 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:35 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-04 23:31:36 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-04 23:31:36 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:36 INFO  TestListeners:15 - Test Case execution started updateUser
+2025-04-04 23:31:37 INFO  TestListeners:20 - Test Case Passed updateUser
+2025-04-04 23:31:37 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:37 INFO  TestListeners:15 - Test Case execution started deleteRequest
+2025-04-04 23:31:37 INFO  TestListeners:20 - Test Case Passed deleteRequest
+2025-04-04 23:31:37 INFO  TestListeners:21 - Description 
+2025-04-04 23:31:37 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:09:14 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:09:14 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:09:14 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:09:15 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-05 12:09:15 INFO  TestListeners:21 - Description 
+2025-04-05 12:09:15 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:09:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:09:28 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:09:28 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:09:29 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-05 12:09:29 INFO  TestListeners:21 - Description 
+2025-04-05 12:09:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:14:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:14:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:14:27 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:14:29 ERROR TestListeners:26 - Test Case Failed createUser
+2025-04-05 12:14:29 INFO  TestListeners:27 - Description 
+2025-04-05 12:14:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:14:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:14:48 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:14:49 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:14:50 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-05 12:14:50 INFO  TestListeners:21 - Description 
+2025-04-05 12:14:50 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:15:13 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:15:13 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:15:13 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:15:14 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-05 12:15:14 INFO  TestListeners:21 - Description 
+2025-04-05 12:15:14 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 12:15:59 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 12:15:59 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 12:15:59 INFO  TestListeners:15 - Test Case execution started createUser
+2025-04-05 12:16:00 INFO  TestListeners:20 - Test Case Passed createUser
+2025-04-05 12:16:00 INFO  TestListeners:21 - Description 
+2025-04-05 12:16:00 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 13:30:20 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 13:30:20 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 13:30:20 INFO  TestListeners:15 - Test Case execution started getRequest
+2025-04-05 13:30:21 INFO  TestListeners:20 - Test Case Passed getRequest
+2025-04-05 13:30:21 INFO  TestListeners:21 - Description 
+2025-04-05 13:30:21 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 23:40:24 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 23:40:24 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 23:40:24 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-05 23:40:24 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-05 23:40:24 INFO  TestListeners:21 - Description 
+2025-04-05 23:40:24 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 23:43:17 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 23:43:17 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 23:43:17 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-05 23:43:18 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-05 23:43:18 INFO  TestListeners:27 - Description 
+2025-04-05 23:43:18 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 23:51:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 23:51:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 23:51:27 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-05 23:51:27 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-05 23:51:27 INFO  TestListeners:21 - Description 
+2025-04-05 23:51:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 23:55:47 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 23:55:47 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 23:55:47 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-05 23:55:53 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-05 23:55:53 INFO  TestListeners:27 - Description 
+2025-04-05 23:55:53 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-05 23:56:43 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-05 23:56:43 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-05 23:56:43 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-05 23:56:43 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-05 23:56:43 INFO  TestListeners:27 - Description 
+2025-04-05 23:56:43 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:01:41 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:01:41 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:01:41 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingThen
+2025-04-06 00:01:42 INFO  TestListeners:20 - Test Case Passed getResponseValidationUsingThen
+2025-04-06 00:01:42 INFO  TestListeners:21 - Description 
+2025-04-06 00:01:42 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:02:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:02:58 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:02:58 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:02:59 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:02:59 INFO  TestListeners:21 - Description 
+2025-04-06 00:02:59 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:04:15 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:04:15 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:04:15 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:04:16 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:04:16 INFO  TestListeners:21 - Description 
+2025-04-06 00:04:16 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:04:38 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:04:38 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:04:38 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:04:39 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:04:39 INFO  TestListeners:21 - Description 
+2025-04-06 00:04:39 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:06:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:06:31 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:06:31 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:06:32 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:06:32 INFO  TestListeners:21 - Description 
+2025-04-06 00:06:32 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:07:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:07:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:07:27 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:07:27 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:07:27 INFO  TestListeners:21 - Description 
+2025-04-06 00:07:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:09:13 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:09:13 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:09:13 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:09:14 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:09:14 INFO  TestListeners:21 - Description 
+2025-04-06 00:09:14 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:09:46 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:09:46 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:09:46 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:09:47 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-06 00:09:47 INFO  TestListeners:27 - Description 
+2025-04-06 00:09:47 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:10:16 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:10:16 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:10:16 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:10:17 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:10:17 INFO  TestListeners:21 - Description 
+2025-04-06 00:10:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:10:54 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:10:54 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:10:54 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:10:55 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:10:55 INFO  TestListeners:21 - Description 
+2025-04-06 00:10:55 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:11:34 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:11:34 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:11:34 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:11:35 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:11:35 INFO  TestListeners:21 - Description 
+2025-04-06 00:11:35 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:12:56 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:12:56 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:12:56 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:12:57 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:12:57 INFO  TestListeners:21 - Description 
+2025-04-06 00:12:57 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:13:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:13:04 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:13:04 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:13:05 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-06 00:13:05 INFO  TestListeners:27 - Description 
+2025-04-06 00:13:05 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:13:14 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:13:14 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:13:14 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:13:14 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:13:14 INFO  TestListeners:21 - Description 
+2025-04-06 00:13:14 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:16:17 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:16:17 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:16:17 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:16:17 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:16:17 INFO  TestListeners:21 - Description 
+2025-04-06 00:16:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:16:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:16:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:16:27 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:16:28 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:16:28 INFO  TestListeners:21 - Description 
+2025-04-06 00:16:28 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:16:59 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:16:59 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:16:59 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-06 00:16:59 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-06 00:16:59 INFO  TestListeners:21 - Description 
+2025-04-06 00:16:59 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:25:55 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:25:55 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:25:55 INFO  TestListeners:15 - Test Case execution started getResponseValidationComplexJson
+2025-04-06 00:25:56 INFO  TestListeners:20 - Test Case Passed getResponseValidationComplexJson
+2025-04-06 00:25:56 INFO  TestListeners:21 - Description 
+2025-04-06 00:25:56 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:26:19 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:26:19 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:26:19 INFO  TestListeners:15 - Test Case execution started getResponseValidationComplexJson
+2025-04-06 00:26:20 INFO  TestListeners:20 - Test Case Passed getResponseValidationComplexJson
+2025-04-06 00:26:20 INFO  TestListeners:21 - Description 
+2025-04-06 00:26:20 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:45:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:45:51 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:45:51 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 00:45:51 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingObject
+2025-04-06 00:45:51 INFO  TestListeners:27 - Description 
+2025-04-06 00:45:51 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:48:29 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:48:29 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:48:29 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 00:48:29 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingObject
+2025-04-06 00:48:29 INFO  TestListeners:27 - Description 
+2025-04-06 00:48:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:50:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:50:04 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:50:04 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 00:50:04 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingObject
+2025-04-06 00:50:04 INFO  TestListeners:27 - Description 
+2025-04-06 00:50:04 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:50:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:50:12 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:50:12 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 00:50:12 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingObject
+2025-04-06 00:50:12 INFO  TestListeners:27 - Description 
+2025-04-06 00:50:12 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 00:50:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 00:50:27 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 00:50:27 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 00:50:27 INFO  TestListeners:20 - Test Case Passed getResponseValidationUsingObject
+2025-04-06 00:50:27 INFO  TestListeners:21 - Description 
+2025-04-06 00:50:27 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-06 01:01:45 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-06 01:01:45 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-06 01:01:45 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-06 01:01:45 INFO  TestListeners:20 - Test Case Passed getResponseValidationUsingObject
+2025-04-06 01:01:45 INFO  TestListeners:21 - Description 
+2025-04-06 01:01:45 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:15:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:15:32 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:15:32 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:15:33 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-07 12:15:33 INFO  TestListeners:27 - Description 
+2025-04-07 12:15:33 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:15:55 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:15:55 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:15:55 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:15:55 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:15:55 INFO  TestListeners:21 - Description 
+2025-04-07 12:15:55 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:16:11 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:16:11 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:16:11 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:16:12 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:16:12 INFO  TestListeners:21 - Description 
+2025-04-07 12:16:12 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:16:53 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:16:53 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:16:53 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:16:54 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:16:54 INFO  TestListeners:21 - Description 
+2025-04-07 12:16:54 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:18:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:18:12 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:18:12 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:18:13 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:18:13 INFO  TestListeners:21 - Description 
+2025-04-07 12:18:13 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:18:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:18:26 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:18:26 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:18:26 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:18:26 INFO  TestListeners:21 - Description 
+2025-04-07 12:18:26 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:18:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:18:42 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:18:42 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:18:42 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:18:42 INFO  TestListeners:21 - Description 
+2025-04-07 12:18:42 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:18:59 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:18:59 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:18:59 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:19:00 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:19:00 INFO  TestListeners:21 - Description 
+2025-04-07 12:19:00 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:19:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:19:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:19:08 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:19:09 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:19:09 INFO  TestListeners:21 - Description 
+2025-04-07 12:19:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:20:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:20:23 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:20:23 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:20:24 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:20:24 INFO  TestListeners:21 - Description 
+2025-04-07 12:20:24 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:20:33 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:20:33 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:20:33 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:20:34 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:20:34 INFO  TestListeners:21 - Description 
+2025-04-07 12:20:34 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:20:52 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:20:52 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:20:52 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:20:53 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:20:53 INFO  TestListeners:21 - Description 
+2025-04-07 12:20:53 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:21:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:21:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:21:08 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:21:09 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:21:09 INFO  TestListeners:21 - Description 
+2025-04-07 12:21:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:21:37 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:21:37 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:21:37 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:21:38 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:21:38 INFO  TestListeners:21 - Description 
+2025-04-07 12:21:38 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 12:21:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 12:21:58 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 12:21:58 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 12:21:58 INFO  TestListeners:20 - Test Case Passed getResponseValidation
+2025-04-07 12:21:58 INFO  TestListeners:21 - Description 
+2025-04-07 12:21:58 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 13:53:40 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 13:53:40 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 13:53:40 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 13:53:42 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 13:53:42 INFO  TestListeners:21 - Description 
+2025-04-07 13:53:42 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:14:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:14:12 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:14:12 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:14:13 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:14:13 INFO  TestListeners:21 - Description 
+2025-04-07 14:14:13 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:14:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:14:48 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:14:48 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:14:49 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:14:49 INFO  TestListeners:21 - Description 
+2025-04-07 14:14:49 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:15:20 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:15:20 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:15:20 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:15:21 INFO  DefaultHttpClient:690 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8080: /Users/amitsingh/IdeaProjects/APIAutomationFrameworksrc/test/resources/file1.rtf (No such file or directory)
+2025-04-07 14:15:21 INFO  DefaultHttpClient:700 - Retrying request to {}->http://localhost:8080
+2025-04-07 14:15:21 INFO  DefaultHttpClient:690 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8080: /Users/amitsingh/IdeaProjects/APIAutomationFrameworksrc/test/resources/file1.rtf (No such file or directory)
+2025-04-07 14:15:21 INFO  DefaultHttpClient:700 - Retrying request to {}->http://localhost:8080
+2025-04-07 14:15:21 INFO  DefaultHttpClient:690 - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://localhost:8080: /Users/amitsingh/IdeaProjects/APIAutomationFrameworksrc/test/resources/file1.rtf (No such file or directory)
+2025-04-07 14:15:21 INFO  DefaultHttpClient:700 - Retrying request to {}->http://localhost:8080
+2025-04-07 14:15:21 ERROR TestListeners:26 - Test Case Failed singleFileUpload
+2025-04-07 14:15:21 INFO  TestListeners:27 - Description 
+2025-04-07 14:15:21 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:15:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:15:32 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:15:32 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:15:33 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:15:33 INFO  TestListeners:21 - Description 
+2025-04-07 14:15:33 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:20:18 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:20:18 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:20:18 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:20:19 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:20:19 INFO  TestListeners:21 - Description 
+2025-04-07 14:20:19 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:21:59 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:21:59 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:21:59 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:22:00 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:22:00 INFO  TestListeners:21 - Description 
+2025-04-07 14:22:00 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:23:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:23:42 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:23:42 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:23:42 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:23:42 INFO  TestListeners:21 - Description 
+2025-04-07 14:23:42 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:23:49 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:23:49 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:23:49 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:23:50 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:23:50 INFO  TestListeners:21 - Description 
+2025-04-07 14:23:50 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:24:05 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:24:05 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:24:05 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:24:06 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:24:06 INFO  TestListeners:21 - Description 
+2025-04-07 14:24:06 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:26:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:26:28 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:26:28 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:26:29 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:26:29 INFO  TestListeners:21 - Description 
+2025-04-07 14:26:29 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:28:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:28:04 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:28:04 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:28:04 ERROR TestListeners:26 - Test Case Failed singleFileUpload
+2025-04-07 14:28:04 INFO  TestListeners:27 - Description 
+2025-04-07 14:28:04 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:32:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:32:23 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:32:23 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:32:24 ERROR TestListeners:26 - Test Case Failed singleFileUpload
+2025-04-07 14:32:24 INFO  TestListeners:27 - Description 
+2025-04-07 14:32:24 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:32:32 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:32:32 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:32:33 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:32:34 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:32:34 INFO  TestListeners:21 - Description 
+2025-04-07 14:32:34 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:34:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:34:09 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:34:09 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:34:10 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:34:10 INFO  TestListeners:21 - Description 
+2025-04-07 14:34:10 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 14:35:29 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 14:35:29 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 14:35:29 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 14:35:30 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 14:35:30 INFO  TestListeners:21 - Description 
+2025-04-07 14:35:30 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 16:20:56 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 16:20:56 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 16:20:56 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 16:20:57 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 16:20:57 INFO  TestListeners:21 - Description 
+2025-04-07 16:20:57 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 16:53:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 16:53:04 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 16:53:05 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 16:53:06 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 16:53:06 INFO  TestListeners:21 - Description 
+2025-04-07 16:53:06 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 16:53:19 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 16:53:19 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 16:53:19 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 16:53:20 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 16:53:20 INFO  TestListeners:21 - Description 
+2025-04-07 16:53:20 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 16:59:55 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 16:59:55 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 16:59:55 INFO  TestListeners:15 - Test Case execution started singleFileUpload
+2025-04-07 16:59:56 INFO  TestListeners:20 - Test Case Passed singleFileUpload
+2025-04-07 16:59:56 INFO  TestListeners:21 - Description 
+2025-04-07 16:59:56 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 21:53:50 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 21:53:50 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 21:53:50 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-07 21:53:50 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingObject
+2025-04-07 21:53:50 INFO  TestListeners:27 - Description 
+2025-04-07 21:53:50 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 21:55:07 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 21:55:07 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 21:55:07 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 21:55:08 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-07 21:55:08 INFO  TestListeners:27 - Description 
+2025-04-07 21:55:08 INFO  TestListeners:15 - Test Case execution started getResponseValidationComplexJson
+2025-04-07 21:55:08 INFO  TestListeners:20 - Test Case Passed getResponseValidationComplexJson
+2025-04-07 21:55:08 INFO  TestListeners:21 - Description 
+2025-04-07 21:55:08 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-07 21:55:08 INFO  TestListeners:20 - Test Case Passed getResponseValidationUsingObject
+2025-04-07 21:55:08 INFO  TestListeners:21 - Description 
+2025-04-07 21:55:08 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingThen
+2025-04-07 21:55:08 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingThen
+2025-04-07 21:55:08 INFO  TestListeners:27 - Description 
+2025-04-07 21:55:08 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 21:56:16 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 21:56:16 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 21:56:16 INFO  TestListeners:15 - Test Case execution started getResponseValidation
+2025-04-07 21:56:17 ERROR TestListeners:26 - Test Case Failed getResponseValidation
+2025-04-07 21:56:17 INFO  TestListeners:27 - Description 
+2025-04-07 21:56:17 INFO  TestListeners:15 - Test Case execution started getResponseValidationComplexJson
+2025-04-07 21:56:17 INFO  TestListeners:20 - Test Case Passed getResponseValidationComplexJson
+2025-04-07 21:56:17 INFO  TestListeners:21 - Description 
+2025-04-07 21:56:17 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingObject
+2025-04-07 21:56:17 INFO  TestListeners:20 - Test Case Passed getResponseValidationUsingObject
+2025-04-07 21:56:17 INFO  TestListeners:21 - Description 
+2025-04-07 21:56:17 INFO  TestListeners:15 - Test Case execution started getResponseValidationUsingThen
+2025-04-07 21:56:17 ERROR TestListeners:26 - Test Case Failed getResponseValidationUsingThen
+2025-04-07 21:56:17 INFO  TestListeners:27 - Description 
+2025-04-07 21:56:17 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 22:28:50 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 22:28:50 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 22:28:50 INFO  TestListeners:15 - Test Case execution started verifyJSONSchema
+2025-04-07 22:28:50 INFO  TestListeners:20 - Test Case Passed verifyJSONSchema
+2025-04-07 22:28:50 INFO  TestListeners:21 - Description 
+2025-04-07 22:28:50 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 22:29:05 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 22:29:05 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 22:29:05 INFO  TestListeners:15 - Test Case execution started verifyJSONSchema
+2025-04-07 22:29:06 ERROR TestListeners:26 - Test Case Failed verifyJSONSchema
+2025-04-07 22:29:06 INFO  TestListeners:27 - Description 
+2025-04-07 22:29:06 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-07 22:29:14 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-07 22:29:14 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-07 22:29:14 INFO  TestListeners:15 - Test Case execution started verifyJSONSchema
+2025-04-07 22:29:15 INFO  TestListeners:20 - Test Case Passed verifyJSONSchema
+2025-04-07 22:29:15 INFO  TestListeners:21 - Description 
+2025-04-07 22:29:15 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-08 10:24:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-08 10:24:08 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-08 10:24:08 INFO  TestListeners:15 - Test Case execution started verifyJSONSchema
+2025-04-08 10:24:09 ERROR TestListeners:26 - Test Case Failed verifyJSONSchema
+2025-04-08 10:24:09 INFO  TestListeners:27 - Description 
+2025-04-08 10:24:09 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-08 10:24:20 INFO  Utils:112 - [TestNG] Running:
+  /Users/amitsingh/Library/Caches/JetBrains/IntelliJIdea2024.3/temp-testng-customsuite.xml
+
+2025-04-08 10:24:20 INFO  TestListeners:36 - Test Suite execution started....
+2025-04-08 10:24:20 INFO  TestListeners:15 - Test Case execution started verifyJSONSchema
+2025-04-08 10:24:21 INFO  TestListeners:20 - Test Case Passed verifyJSONSchema
+2025-04-08 10:24:21 INFO  TestListeners:21 - Description 
+2025-04-08 10:24:21 INFO  TestListeners:41 - Test Suite execution finished....
+2025-04-10 12:30:40 INFO  Utils:112 - [Warning] The regular expression "getRequest" didn't match any method in class com.api.practice.PostRequest
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-10 12:30:40 INFO  Utils:112 - [TestNG] Running:
+  /private/var/folders/ks/mrd4_q7971j_rcyyyh8vsygh0000gn/T/testng-eclipse--82879544/testng-customsuite.xml
+
+2025-04-10 12:30:40 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@29be997f: 17 ms
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a8ffd75: 1 ms
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@485caa8f: 2 ms
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@310ed6b4: 2 ms
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@60df7989: 1 ms
+2025-04-10 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7ab1127c: 0 ms

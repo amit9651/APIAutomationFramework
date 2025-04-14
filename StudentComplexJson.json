@@ -1,0 +1,174 @@
+{
+  "studentComplex": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "New York",
+      "phone": "+1-555-123-4567",
+      "address": {
+        "street": "123 Elm St",
+        "city": "New York",
+        "zip": "10001",
+        "country": "USA"
+      },
+      "enrollment": {
+        "semester": "Fall 2023",
+        "status": "Full-Time"
+      },
+      "department": {
+        "dept_name": "Computer Science",
+        "head": "Dr. Alice Smith",
+        "courses": [
+          {
+            "course_id": "CS101",
+            "course_name": "Introduction to Computer Science",
+            "instructor": "Dr. Smith",
+            "schedule": "Mon, Wed, Fri - 9:00 AM - 10:30 AM"
+          },
+          {
+            "course_id": "MATH101",
+            "course_name": "Calculus I",
+            "instructor": "Prof. Johnson",
+            "schedule": "Tue, Thu - 10:00 AM - 11:30 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Alice Green",
+      "location": "Los Angeles",
+      "phone": "+1-555-987-6543",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Los Angeles",
+        "zip": "90001",
+        "country": "USA"
+      },
+      "enrollment": {
+        "semester": "Spring 2023",
+        "status": "Part-Time"
+      },
+      "department": {
+        "dept_name": "Biology",
+        "head": "Dr. Taylor",
+        "courses": [
+          {
+            "course_id": "BIO101",
+            "course_name": "Introduction to Biology",
+            "instructor": "Dr. Taylor",
+            "schedule": "Mon, Wed - 1:00 PM - 3:00 PM"
+          },
+          {
+            "course_id": "CHEM101",
+            "course_name": "Chemistry Basics",
+            "instructor": "Prof. Lee",
+            "schedule": "Tue, Thu - 9:00 AM - 11:00 AM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "name": "David Harris",
+      "location": "Chicago",
+      "phone": "+1-555-555-5555",
+      "address": {
+        "street": "789 Pine St",
+        "city": "Chicago",
+        "zip": "60601",
+        "country": "USA"
+      },
+      "enrollment": {
+        "semester": "Fall 2023",
+        "status": "Full-Time"
+      },
+      "department": {
+        "dept_name": "Physics",
+        "head": "Prof. Clark",
+        "courses": [
+          {
+            "course_id": "PHYS101",
+            "course_name": "Physics I",
+            "instructor": "Prof. Clark",
+            "schedule": "Mon, Wed, Fri - 10:00 AM - 11:30 AM"
+          },
+          {
+            "course_id": "ENG202",
+            "course_name": "English Literature",
+            "instructor": "Mrs. Williams",
+            "schedule": "Tue, Thu - 12:00 PM - 2:00 PM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Emma White",
+      "location": "Miami",
+      "phone": "+1-555-444-4444",
+      "address": {
+        "street": "321 Maple St",
+        "city": "Miami",
+        "zip": "33101",
+        "country": "USA"
+      },
+      "enrollment": {
+        "semester": "Spring 2023",
+        "status": "Part-Time"
+      },
+      "department": {
+        "dept_name": "Art",
+        "head": "Prof. Davis",
+        "courses": [
+          {
+            "course_id": "ART101",
+            "course_name": "Art History",
+            "instructor": "Prof. Davis",
+            "schedule": "Mon, Wed - 2:00 PM - 4:00 PM"
+          },
+          {
+            "course_id": "MATH102",
+            "course_name": "Linear Algebra",
+            "instructor": "Dr. Martinez",
+            "schedule": "Tue, Thu - 3:00 PM - 5:00 PM"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Michael Brown",
+      "location": "San Francisco",
+      "phone": "+1-555-333-3333",
+      "address": {
+        "street": "654 Birch St",
+        "city": "San Francisco",
+        "zip": "94101",
+        "country": "USA"
+      },
+      "enrollment": {
+        "semester": "Fall 2023",
+        "status": "Full-Time"
+      },
+      "department": {
+        "dept_name": "Computer Science",
+        "head": "Dr. Wilson",
+        "courses": [
+          {
+            "course_id": "CS102",
+            "course_name": "Data Structures and Algorithms",
+            "instructor": "Dr. Wilson",
+            "schedule": "Mon, Wed, Fri - 11:00 AM - 1:00 PM"
+          },
+          {
+            "course_id": "HIST101",
+            "course_name": "World History",
+            "instructor": "Prof. Evans",
+            "schedule": "Tue, Thu - 10:00 AM - 12:00 PM"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="APIAutomationFramework(failed)">
     <classes>
-      <class name="com.api.tests.UpdateProfileTest">
+      <class name="com.api.practice.ValidateResponse">
         <methods>
-          <include name="updateProfileAll"/>
+          <include name="verifyJSONSchema"/>
         </methods>
-      </class> <!-- com.api.tests.UpdateProfileTest -->
+      </class> <!-- com.api.practice.ValidateResponse -->
     </classes>
   </test> <!-- APIAutomationFramework(failed) -->
 </suite> <!-- Failed suite [Default Suite] -->
